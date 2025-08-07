@@ -1,0 +1,1 @@
+minimal example of SDL3 initialization using deno ffi
